@@ -5,7 +5,7 @@ Modal Project
 
 A fun project to capture practice working on modal UI.
 
-Link to project: []
+Link to project: [https://mrileyclark.github.io/modal-project/]
 
 Shape alt tag 
 
