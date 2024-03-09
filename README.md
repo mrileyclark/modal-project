@@ -7,7 +7,7 @@ A fun project to capture practice working on modal UI.
 
 Link to project: [https://mrileyclark.github.io/modal-project/]
 
-Shape alt tag 
+<img src="https://github.com/mrileyclark/Landing-Page-with-Countdown/blob/main/records-project.png" width="50%" height="30%">
 
 ****
 
